@@ -1,0 +1,16 @@
+div{
+    /* border: 1px solid red; */
+    /* margin: 1px; */
+    height: 50px;
+    width: 100px;
+}
+.color0{background-color:rgb(0, 22, 20) ;}
+.color1{background-color: rgb(0, 22, 40);}
+.color2{background-color: rgb(0, 20, 60);}
+.color3{background-color: rgb(0, 20, 85);}
+.color4{background-color: rgb(0, 20, 110);}
+.color5{background-color: rgb(0, 20, 130);}
+.color6{background-color: rgb(0, 20, 155);}
+.color7{background-color: rgb(0, 20, 175);}
+.color8{background-color: rgb(0, 20, 200);}
+.color9{background-color: rgb(0, 20, 230);}
